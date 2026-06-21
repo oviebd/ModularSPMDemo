@@ -1,4 +1,4 @@
-# ModularDemo
+# Modular SPM
 
 A small iOS project that shows how Swift Package Manager can be used to split an app into independent, locally compiled modules — and how those module boundaries are enforced by the compiler instead of by convention.
 
